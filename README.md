@@ -1,7 +1,7 @@
 # KBQA_Trial_One
 Knowledge Graph Question Answering Trial (heifer management)
 
-=================================================================
+==================================================================================================================================
 Procedures:
 
 1, packages:
@@ -18,18 +18,27 @@ python chatbot_graph.py
 4, the code skeleton:
 ![Can2_KBQA](https://user-images.githubusercontent.com/77312114/119589555-9d69c280-be05-11eb-9922-067ccce5c747.jpg)
 
-=================================================================
+
+
+
+==================================================================================================================================
 Demo:
 
 1, how it looks like in neo4j:
-![image](https://user-images.githubusercontent.com/77312114/119589797-27b22680-be06-11eb-9033-26f1c2603e6c.png)
+
+![image](https://user-images.githubusercontent.com/77312114/119590784-081bfd80-be08-11eb-9029-d7f164aac4c6.png)
+
 
 2, question answering part:
-![image](https://user-images.githubusercontent.com/77312114/119589846-3c8eba00-be06-11eb-9e6b-d2c5425a659d.png)
-![image](https://user-images.githubusercontent.com/77312114/119589859-46182200-be06-11eb-87f4-17937c00acae.png)
-![image](https://user-images.githubusercontent.com/77312114/119589875-4c0e0300-be06-11eb-8910-ed676df2fc18.png)
 
-=================================================================
+
+![image](https://user-images.githubusercontent.com/77312114/119590979-5c26e200-be08-11eb-984f-7818448a09ce.png)
+![image](https://user-images.githubusercontent.com/77312114/119590992-62b55980-be08-11eb-95f1-93c9e85c0bd0.png)
+![image](https://user-images.githubusercontent.com/77312114/119591005-68ab3a80-be08-11eb-821a-42ecdd69813e.png)
+
+
+
+==================================================================================================================================
 Problem:
 
 1, this is too small and it can only answer a few questions
