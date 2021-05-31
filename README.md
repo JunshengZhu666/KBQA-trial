@@ -24,11 +24,11 @@ python chatbot_graph.py
 ==================================================================================================================================
 Demo:
 
-1, how it looks like in neo4j:
+1, how the data looks like in neo4j:
 
 ![image](https://user-images.githubusercontent.com/77312114/119591353-069f0500-be09-11eb-8bca-22529640574f.png)
 
-2, question answering part:
+2, question answering:
 
 
 ![image](https://user-images.githubusercontent.com/77312114/119590979-5c26e200-be08-11eb-984f-7818448a09ce.png)
