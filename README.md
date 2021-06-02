@@ -46,3 +46,17 @@ Problem:
 
 3, next step: explore more precise and rich knowledge,
               use NLP to better understand the questions
+              
+              
+   
+   
+==================================================================================================================================
+Planning for trial_two:
+
+1, websites:
+
+https://www.farmhealthonline.com/US/disease-management/
+
+2, data schemas and question templates
+
+![Trail_two](https://user-images.githubusercontent.com/77312114/120449178-c9ff7a80-c3c1-11eb-84fb-3319970e26ba.jpg)
