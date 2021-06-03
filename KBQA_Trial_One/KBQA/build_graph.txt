@@ -1,0 +1,14 @@
+1, start neo4j community(from cmd: neo4j console)
+
+2, open neo4j in brower(http://localhost:7474/browser/)
+
+3, copy the csv file (heifer.csv) under neo4j file (C:\Users\JZ\Desktop\neo4j-community-4.0.11\import)
+
+4, type in the following code one by one:
+
+LOAD CSV WITH HEADERS  FROM "file:///heifer.csv" AS line  
+MERGE (p:Heifer{htype:line.htype, hanswer:line.hanswer})
+
+CREATE (p:Heifer{htype:'Heifer'}) return p
+
+MATCH (a:Heifer{htype:'Heifer'}) , (b:Heifer) MERGE (a) - [:has] -> (b)
