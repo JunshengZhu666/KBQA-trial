@@ -4,13 +4,13 @@ Knowledge Graph Question Answering Trial (heifer management)
 ==================================================================================================================================
 Procedures:
 
-1, packages:
+1, Used:
 python, 
 neo4j community
 
 2, import data:
 start neo4j community (cmd: neo4j console),
-load csv files using neo4j language (cypher: do this in neo4j brower, I didn't save the code here)
+load csv files using neo4j language (see build_graph.txt)
 
 3, run python:
 python chatbot_graph.py
