@@ -4,6 +4,8 @@ Knowledge Graph Question Answering Trial (heifer management)
 ==================================================================================================================================
 Procedures:
 
+0, See KBQA_Trial_One file instead of My_KBQA_files
+
 1, Used:
 python, 
 neo4j community
