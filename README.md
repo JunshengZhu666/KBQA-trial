@@ -39,7 +39,7 @@ Demo:
 ![image](https://user-images.githubusercontent.com/77312114/119590992-62b55980-be08-11eb-95f1-93c9e85c0bd0.png)
 ![image](https://user-images.githubusercontent.com/77312114/119591005-68ab3a80-be08-11eb-821a-42ecdd69813e.png)
 ![image](https://user-images.githubusercontent.com/77312114/120653021-e4655100-c4b2-11eb-98d9-f7a4927136ab.png)
-after add word stemming(more flexible)
+after added word stemming(more flexible)
 ![image](https://user-images.githubusercontent.com/77312114/121019813-5b138e80-c7d2-11eb-9d2b-2201740a643a.png)
 
 
