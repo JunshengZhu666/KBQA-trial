@@ -4,7 +4,9 @@ Knowledge Graph Question Answering Trial (heifer management)
 ==================================================================================================================================
 Procedures:
 
-0, See KBQA_Trial_One file instead of My_KBQA_files
+0, 
+See KBQA_Trial_One_New file, others are out of date.
+Some packages are used in python, may spend some time to download.
 
 1, Used:
 python, 
@@ -20,7 +22,7 @@ python chatbot_graph.py
 4, the code skeleton:
 
 
-![Can2_KBQA](https://user-images.githubusercontent.com/77312114/119589555-9d69c280-be05-11eb-9922-067ccce5c747.jpg)
+![image](https://user-images.githubusercontent.com/77312114/121019573-2273b500-c7d2-11eb-9fbd-9c50957b86ec.png)
 
 
 ==================================================================================================================================
@@ -37,6 +39,8 @@ Demo:
 ![image](https://user-images.githubusercontent.com/77312114/119590992-62b55980-be08-11eb-95f1-93c9e85c0bd0.png)
 ![image](https://user-images.githubusercontent.com/77312114/119591005-68ab3a80-be08-11eb-821a-42ecdd69813e.png)
 ![image](https://user-images.githubusercontent.com/77312114/120653021-e4655100-c4b2-11eb-98d9-f7a4927136ab.png)
+after add word stemming(more flexible)
+![image](https://user-images.githubusercontent.com/77312114/121019813-5b138e80-c7d2-11eb-9d2b-2201740a643a.png)
 
 
 
@@ -48,7 +52,7 @@ Problem:
 2, it has minimum ability to understand natural language questions
 
 3, next step: explore more precise and rich knowledge,
-              use NLP to better understand the questions
+              use more NLP to better understand the questions
               
               
    
@@ -56,7 +60,7 @@ Problem:
 ==================================================================================================================================
 Planning for trial_two:
 
-1, websites:
+1, website resouces:
 
 https://www.farmhealthonline.com/US/disease-management/cattle-diseases/
 
