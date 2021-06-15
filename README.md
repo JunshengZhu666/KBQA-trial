@@ -66,9 +66,9 @@ manually create the csv files from the websites(the information from the website
 
 5, the question answering part
 
-![image](https://user-images.githubusercontent.com/77312114/122015375-a2150b80-cdf2-11eb-91e8-4e831847e77a.png)
-![image](https://user-images.githubusercontent.com/77312114/122015401-a7725600-cdf2-11eb-8ba4-105b31011734.png)
-![image](https://user-images.githubusercontent.com/77312114/122012120-662c7700-cdef-11eb-8b72-b34ec4902d58.png)
+![image](https://user-images.githubusercontent.com/77312114/122015734-f0c2a580-cdf2-11eb-8d27-f5c7e77b3bc9.png)
+![image](https://user-images.githubusercontent.com/77312114/122015821-0768fc80-cdf3-11eb-9fb4-77b4361a86bc.png)
+![image](https://user-images.githubusercontent.com/77312114/122015872-151e8200-cdf3-11eb-8941-e18550af1b4e.png)
 
 
 ==================================================================================================================================
