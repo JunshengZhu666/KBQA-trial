@@ -51,7 +51,8 @@ https://www.farmhealthonline.com/US/disease-management/cattle-diseases/
 
 2, data schemas and question templates
 
-![image](https://user-images.githubusercontent.com/77312114/122010913-29ac4b80-cdee-11eb-89e4-a012b1921fe2.png)
+![My_KG02](https://user-images.githubusercontent.com/77312114/122015338-988ba380-cdf2-11eb-9d3d-3e2b86f23398.jpg)
+
 
 3, my procedures
 
@@ -65,8 +66,8 @@ manually create the csv files from the websites(the information from the website
 
 5, the question answering part
 
-![image](https://user-images.githubusercontent.com/77312114/122012074-5ca30f00-cdef-11eb-9218-7330a5e245f3.png)
-![image](https://user-images.githubusercontent.com/77312114/122012104-62005980-cdef-11eb-93a3-c4b78ae4d4a1.png)
+![image](https://user-images.githubusercontent.com/77312114/122015375-a2150b80-cdf2-11eb-91e8-4e831847e77a.png)
+![image](https://user-images.githubusercontent.com/77312114/122015401-a7725600-cdf2-11eb-8ba4-105b31011734.png)
 ![image](https://user-images.githubusercontent.com/77312114/122012120-662c7700-cdef-11eb-8b72-b34ec4902d58.png)
 
 
