@@ -1,8 +1,10 @@
 # KBQA_Trial_One
-Knowledge Graph Question Answering Trial (heifer management)
+==================================================================================================================================
+
+
 
 ==================================================================================================================================
-Procedures:
+Trial_one：On hiefer management
 
 0, 
 See KBQA_Trial_One_New file, others are out of date.
@@ -24,41 +26,24 @@ python chatbot_graph.py
 
 ![image](https://user-images.githubusercontent.com/77312114/121019573-2273b500-c7d2-11eb-9fbd-9c50957b86ec.png)
 
-
-==================================================================================================================================
-Demo:
-
-1, how the data looks like in neo4j:
+5, how the data looks like in neo4j:
 
 ![image](https://user-images.githubusercontent.com/77312114/120652874-c13aa180-c4b2-11eb-8c18-5f5524a89d6c.png)
 
-2, question answering:
-
+6, question answering:
 
 ![image](https://user-images.githubusercontent.com/77312114/119590979-5c26e200-be08-11eb-984f-7818448a09ce.png)
-![image](https://user-images.githubusercontent.com/77312114/119590992-62b55980-be08-11eb-95f1-93c9e85c0bd0.png)
-![image](https://user-images.githubusercontent.com/77312114/119591005-68ab3a80-be08-11eb-821a-42ecdd69813e.png)
-![image](https://user-images.githubusercontent.com/77312114/120653021-e4655100-c4b2-11eb-98d9-f7a4927136ab.png)
-after added word stemming(more flexible)
 ![image](https://user-images.githubusercontent.com/77312114/121019813-5b138e80-c7d2-11eb-9d2b-2201740a643a.png)
 
 
 
 ==================================================================================================================================
-Problem:
 
-1, this is too small and it can only answer a few questions
-
-2, it has minimum ability to understand natural language questions
-
-3, next step: explore more precise and rich knowledge,
-              use more NLP to better understand the questions
-              
               
    
    
 ==================================================================================================================================
-Planning for trial_two:
+Trial_two: A Knowledge Graph of cattle diseases, which is able to diagnose and recommend given symptoms
 
 1, website resouces:
 
@@ -66,5 +51,36 @@ https://www.farmhealthonline.com/US/disease-management/cattle-diseases/
 
 2, data schemas and question templates
 
-![image](https://user-images.githubusercontent.com/77312114/120652632-86d10480-c4b2-11eb-850e-128513194d9b.png)
+![image](https://user-images.githubusercontent.com/77312114/122010913-29ac4b80-cdee-11eb-89e4-a012b1921fe2.png)
 
+3, my procedures
+
+manually create the csv files from the websites(the information from the website is not perfectly structured) --> load the file into neo4j with RDF format(see code in Trail_two_load_data.txt) --> use word stemming to process the question and match with the entities in the neo4j database
+
+4, the data in neo4j 
+
+![image](https://user-images.githubusercontent.com/77312114/122011997-49903f00-cdef-11eb-9e34-3aede95ec5e0.png)
+![image](https://user-images.githubusercontent.com/77312114/122012014-4e54f300-cdef-11eb-8846-87a9409ee3d4.png)
+
+5, the question answering part
+
+![image](https://user-images.githubusercontent.com/77312114/122012074-5ca30f00-cdef-11eb-9218-7330a5e245f3.png)
+![image](https://user-images.githubusercontent.com/77312114/122012104-62005980-cdef-11eb-93a3-c4b78ae4d4a1.png)
+![image](https://user-images.githubusercontent.com/77312114/122012120-662c7700-cdef-11eb-8b72-b34ec4902d58.png)
+
+
+==================================================================================================================================
+
+              
+   
+   
+==================================================================================================================================
+Planning for trial_three:
+
+Trail two is based on question templates and manually created data. 
+
+Next step: 
+
+1, Using Transformer Models like T5 and BERT to antomate the Knowledge Graph Building and Question Answering procedures.
+
+2, Looking for a more structured information or website to crawl
