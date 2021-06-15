@@ -60,7 +60,8 @@ manually create the csv files from the websites(the information from the website
 4, the data in neo4j 
 
 ![image](https://user-images.githubusercontent.com/77312114/122011997-49903f00-cdef-11eb-9e34-3aede95ec5e0.png)
-![image](https://user-images.githubusercontent.com/77312114/122012014-4e54f300-cdef-11eb-8846-87a9409ee3d4.png)
+![graph(2)](https://user-images.githubusercontent.com/77312114/122014688-fff52380-cdf1-11eb-92ed-eb96096881fa.png)
+
 
 5, the question answering part
 
