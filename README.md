@@ -70,9 +70,16 @@ manually create the csv files from the websites(the information from the website
 ![image](https://user-images.githubusercontent.com/77312114/122015821-0768fc80-cdf3-11eb-9fb4-77b4361a86bc.png)
 ![image](https://user-images.githubusercontent.com/77312114/122015872-151e8200-cdf3-11eb-8941-e18550af1b4e.png)
 
-6, the first three answers in Google
+6, the first three answers in comparsion with Google
 
-![image](https://user-images.githubusercontent.com/77312114/122173158-0f3ca580-ceb4-11eb-8b22-3673e7192833.png)
+6,1 ![image](https://user-images.githubusercontent.com/77312114/122173954-e36def80-ceb4-11eb-9a59-91ce0d89a2fb.png)
+Not specific
+
+6.2 ![image](https://user-images.githubusercontent.com/77312114/122174078-000a2780-ceb5-11eb-8e4b-b81c0eee8ad5.png)
+Only give one reason while the reasons could be many others
+
+6.3 ![image](https://user-images.githubusercontent.com/77312114/122174225-1fa15000-ceb5-11eb-8dda-34a12bc4de55.png)
+Not answering the question in domian
 
 
 
