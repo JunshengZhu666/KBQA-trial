@@ -70,6 +70,11 @@ manually create the csv files from the websites(the information from the website
 ![image](https://user-images.githubusercontent.com/77312114/122015821-0768fc80-cdf3-11eb-9fb4-77b4361a86bc.png)
 ![image](https://user-images.githubusercontent.com/77312114/122015872-151e8200-cdf3-11eb-8941-e18550af1b4e.png)
 
+6, the first three answers in Google
+
+![image](https://user-images.githubusercontent.com/77312114/122173158-0f3ca580-ceb4-11eb-8b22-3673e7192833.png)
+
+
 
 ==================================================================================================================================
 
