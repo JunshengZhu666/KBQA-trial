@@ -6,17 +6,13 @@
 ==================================================================================================================================
 Trial_one：On hiefer management
 
-0, 
-See KBQA_Trial_One_New file, others are out of date.
-Some packages are used in python, may spend some time to download.
-
 1, Used:
 python, 
 neo4j community
 
 2, import data:
 start neo4j community (cmd: neo4j console),
-load csv files using neo4j language (see build_graph.txt)
+load csv files using neo4j language (see load_graph.txt)
 
 3, run python:
 python chatbot_graph.py
@@ -43,7 +39,7 @@ python chatbot_graph.py
    
    
 ==================================================================================================================================
-Trial_two: A Knowledge Graph of cattle diseases, which is able to diagnose and recommend given symptoms
+Trial_two: A Knowledge Graph of cattle diseases, which is able to diagnose and recommend given different symptoms 
 
 1, website resouces:
 
@@ -56,7 +52,7 @@ https://www.farmhealthonline.com/US/disease-management/cattle-diseases/
 
 3, my procedures
 
-manually create the csv files from the websites(the information from the website is not perfectly structured) --> load the file into neo4j with RDF format(see code in Trail_two_load_data.txt) --> use word stemming to process the question and match with the entities in the neo4j database
+manually create the csv files from the websites(the information from the website is not perfectly structured) --> load the file into neo4j with RDF format(see code in load_data.txt) --> use word stemming to process the question and match with the entities in the neo4j database
 
 4, the data in neo4j 
 
@@ -95,6 +91,4 @@ Trail two is based on question templates and manually created data.
 
 Next step: 
 
-1, Using Transformer Models like T5 and BERT to antomate the Knowledge Graph Building and Question Answering procedures.
-
-2, Looking for a more structured information or website to crawl
+Use NLP to automate the building process and also make the question answering part more intelligent 
