@@ -1,0 +1,118 @@
+abomasal displacement
+displaced abomasum
+lda
+rda
+abortion
+ketosis
+acetonemia
+fat cow syndrome
+hypoglycemia
+pregnancy toxemia
+wooden tongue
+actinobacillosis
+lumpy jaw
+actinomycosis
+allergic dermatitis
+mange
+dermatitis
+blackleg
+botulism
+clostridial disease
+bloat
+ruminal tympany
+bovine fasciolosis
+liver fluke
+ fasciola hepatica
+bovine herpes virus 1
+infectious bovine rhinotracheitis
+ibr
+bhv-1
+bovine spongiform encephalopathy
+bse
+mad cow disease
+bovine tuberculosis
+tb
+btb
+bovine viral diarrhea
+bvd
+mucosal disease
+brucellosis
+calcium deficiency
+milk fever
+hypocalcemia
+periparturient paresis
+calf diarrhea
+scours
+calf pneumonia
+enzootic pneumonia
+campylobacteriosis
+polioencephalomalacia
+cerebrocortical necrosis
+ccn
+vitamin b deficiency
+thiamine deficiency
+cobalt deficiency
+vitamin b12 deficiency
+coccidiosis
+eimeria
+conjunctivitis
+pink eye
+new forest eye
+keratoconjunctivitis
+copper deficiency
+hypocupremia
+coronavirus
+rotavirus
+cryptosporidiosis
+dermatophytosis
+ringworm
+lungworm
+dictyocaulus viviparus
+parasitic bronchitis
+husk
+lameness
+e. coli infection
+colibacillosis
+etec
+septicemic colibacillosis
+gastroenteritis
+endoparasites
+calf pneumonia
+enzootic pneumonia
+liver fluke
+bovine fasciolosis
+fasciola hepatica
+flabby bag
+leptospirosis
+milk drop syndrome
+staggers
+grass tetany
+hypomagnesemia
+lactation tetany
+magnesium deficiency
+haemonchus contortus
+barbers pole worm
+johne’s disease
+mycobacterium johnei
+paratuberculosis
+mastitis
+udder inflammation
+post-partum conditions
+metritis
+endometritis
+pyometra
+muscular dystrophy
+myopathy
+nutritional myodegeneration
+white muscle disease
+selenium deficiency
+neospora caninum
+ostertagiasis
+ostertagia ostertagi
+pasteurellosis
+transit fever
+shipping fever
+retained placenta
+retained fetal membranes
+rfm
+salmonellosis
