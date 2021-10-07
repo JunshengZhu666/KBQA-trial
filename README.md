@@ -91,4 +91,13 @@ Trail two is based on question templates and manually created data.
 
 Next step: 
 
-Use NLP to automate the building process and also make the question answering part more intelligent 
+Use NLP to automate the building process 
+
+==================================================================================================================================
+The benefits of NLP and KG in dairy industry: 
+
+1, The untilization of textual data, like literatures, managament and medical records. 
+
+2, The reusability of NLP models, which can update the knowledge by re-extracting the new text. 
+
+3, The specialization of question answering in domain. 
